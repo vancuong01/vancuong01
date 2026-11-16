@@ -58,7 +58,7 @@ namespace HVC
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/c/ThienLongTNT">
+  <a href="https://www.youtube.com/VanCuongModer">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
